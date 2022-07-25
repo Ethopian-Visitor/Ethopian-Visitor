@@ -1,7 +1,7 @@
-# Ethiopian Tourist Guide in React & Redux + Django
+# Ethiopian Visitor in React & Redux + Django
 
 ```
-Ethiopian Tourist Guide, with a frontend built in React & Redux and a backend built in Django API.
+Ethiopian Visitor, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
